@@ -7,3 +7,7 @@ step 2 : Take third variable to add above to number and to store it into the thi
 step 3 : now print the third varialbe
 
 Thank you :)
+
+
+Sub
+Mult
