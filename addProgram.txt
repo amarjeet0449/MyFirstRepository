@@ -1,0 +1,8 @@
+
+Hello world 
+this is the Algorithm to write a program of adding two integer type number in c lanaguage
+
+step 1 : Take two variable to take two numbers from the users
+step 2 : Take third variable to add above to number and to store it into the third variable
+step 3 : now print the third varialbe
+step 4 : at the last run the programm....
